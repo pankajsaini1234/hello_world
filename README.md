@@ -4,6 +4,7 @@
     <title>
       Pankaj Kumar Saini
     </title>
+    <link href="one.css" rel="stylesheet"/>
   </head>
   <body>
     <div class="header">
